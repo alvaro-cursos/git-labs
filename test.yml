@@ -1,0 +1,9 @@
+- name: Playbook test
+  hosts: all
+  become: yes
+
+  tasks:
+
+    - name: Show message
+      debug:
+        msg: "Testing, testing..."

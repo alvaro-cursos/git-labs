@@ -1,0 +1,20 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Juan Pérez",
+        "usuario": "jperez",
+        "directorio": "/home/jperez"
+      },
+      {
+        "nombre": "María López",
+        "usuario": "mlopez",
+        "directorio": "/home/mlopez"
+      },
+      {
+        "nombre": "Carlos Gómez",
+        "usuario": "cgomez",
+        "directorio": "/home/cgomez"
+      }
+    ]
+  }
+  
