@@ -1,5 +1,5 @@
 - name: Playbook test
-  hosts: all
+  hosts: front
   become: yes
 
   tasks:
