@@ -7,3 +7,8 @@
     - name: Show message
       debug:
         msg: "Testing, testing..."
+
+    - name: Create user
+      user: 
+        name: my_user
+        create_home: yes
