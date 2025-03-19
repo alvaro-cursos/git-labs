@@ -7,3 +7,4 @@ Puede usarse para explicar a los alumnos casos prácticos de operaciones con Git
 
 1. **Git**
 2. **Terminal**
+3. Nueva línea
