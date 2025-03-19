@@ -1,6 +1,6 @@
 - name: Playbook test
   hosts: front
-  become: yes
+  become: no
 
   tasks:
 
