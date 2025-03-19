@@ -10,5 +10,8 @@
 
     - name: Create user
       user: 
-        name: Pepe
+        name: "{{ item }}"
         create_home: yes
+      loop:
+        - Pepe
+        - Paco
