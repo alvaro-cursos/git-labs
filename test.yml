@@ -10,5 +10,5 @@
 
     - name: Create user
       user: 
-        name: nuevo
+        name: Paco
         create_home: yes
