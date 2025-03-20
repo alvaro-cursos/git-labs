@@ -10,3 +10,4 @@ Puede usarse para explicar a los alumnos casos prácticos de operaciones con Git
 3. Nueva línea
 4. Otra línea nueva
 5. Cambio realizado en main
+6. Nueva Línea conflictiva
