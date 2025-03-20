@@ -11,3 +11,4 @@ Puede usarse para explicar a los alumnos casos prácticos de operaciones con Git
 4. Otra línea nueva
 5. Cambio realizado en main
 6. Nueva Línea conflictiva
+7. Otro conflicto más
