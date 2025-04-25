@@ -1,0 +1,18 @@
+- name: Playbook test
+  hosts: backend
+  become: no
+
+  tasks:
+
+    - name: Show message
+      debug:
+        msg: "Testing, testing..."
+
+    - name: Create user
+      user: 
+        name: "{{ item }}"
+        create_home: yes
+      loop:
+        - Pepe
+        - Paco
+        - Nuevo usuario
